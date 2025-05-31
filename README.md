@@ -10,4 +10,4 @@
 - **Instagram-Clone** – Instagram backend clone 
 
 ## 📫 Contact Me
-- LinkedIn: [https://www.linkedin.com/in/ritesh-dolas-b1044927a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](#)
+- LinkedIn: [https://www.linkedin.com/in/ritesh-dolas-b1044927a](#)
